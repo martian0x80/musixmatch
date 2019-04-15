@@ -1,0 +1,282 @@
+[
+    {
+        "track": {
+            "commontrack_id": 63302454,
+            "explicit": 0,
+            "track_name_translation_list": [],
+            "restricted": 0,
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Travis-Atreo/Treat-You-Better/edit?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635",
+            "primary_genres": {
+                "music_genre_list": [
+                    {
+                        "music_genre": {
+                            "music_genre_vanity": "Pop",
+                            "music_genre_id": 14,
+                            "music_genre_name_extended": "Pop",
+                            "music_genre_name": "Pop",
+                            "music_genre_parent_id": 34
+                        }
+                    }
+                ]
+            },
+            "track_rating": 1,
+            "instrumental": 0,
+            "has_richsync": 0,
+            "track_id": 114820512,
+            "artist_id": 28261144,
+            "updated_time": "2017-07-15T11:12:12Z",
+            "num_favourite": 0,
+            "album_name": "Treat You Better",
+            "album_id": 23975532,
+            "artist_name": "Travis Atreo",
+            "has_subtitles": 0,
+            "track_name": "Treat You Better",
+            "has_lyrics": 1,
+            "track_share_url": "https://www.musixmatch.com/lyrics/Travis-Atreo/Treat-You-Better?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635"
+        }
+    },
+    {
+        "track": {
+            "commontrack_id": 74791924,
+            "explicit": 0,
+            "track_name_translation_list": [],
+            "restricted": 0,
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Alex-49/Treat-You-Better/edit?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635",
+            "primary_genres": {
+                "music_genre_list": []
+            },
+            "track_rating": 1,
+            "instrumental": 0,
+            "has_richsync": 0,
+            "track_id": 134200298,
+            "artist_id": 29152129,
+            "updated_time": "2017-08-21T13:27:45Z",
+            "num_favourite": 0,
+            "album_name": "Covers",
+            "album_id": 26792020,
+            "artist_name": "Alex",
+            "has_subtitles": 0,
+            "track_name": "Treat You Better",
+            "has_lyrics": 0,
+            "track_share_url": "https://www.musixmatch.com/lyrics/Alex-49/Treat-You-Better?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635"
+        }
+    },
+    {
+        "track": {
+            "commontrack_id": 73714014,
+            "explicit": 0,
+            "track_name_translation_list": [],
+            "restricted": 0,
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Love-Song-Hits-2017/Treat-You-Better/edit?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635",
+            "primary_genres": {
+                "music_genre_list": []
+            },
+            "track_rating": 1,
+            "instrumental": 0,
+            "has_richsync": 0,
+            "track_id": 132043881,
+            "artist_id": 33904744,
+            "updated_time": "2017-07-16T00:35:17Z",
+            "num_favourite": 0,
+            "album_name": "Number One Love Hits",
+            "album_id": 26470742,
+            "artist_name": "Love Song Hits 2017",
+            "has_subtitles": 0,
+            "track_name": "Treat You Better",
+            "has_lyrics": 0,
+            "track_share_url": "https://www.musixmatch.com/lyrics/Love-Song-Hits-2017/Treat-You-Better?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635"
+        }
+    },
+    {
+        "track": {
+            "commontrack_id": 74107187,
+            "explicit": 0,
+            "track_name_translation_list": [],
+            "restricted": 0,
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cover-Nation/Treat-You-Better/edit?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635",
+            "primary_genres": {
+                "music_genre_list": []
+            },
+            "track_rating": 1,
+            "instrumental": 0,
+            "has_richsync": 0,
+            "track_id": 132639092,
+            "artist_id": 13812305,
+            "updated_time": "2017-07-28T11:38:40Z",
+            "num_favourite": 0,
+            "album_name": "Boys Vs Girls (Non-Stop Hits)",
+            "album_id": 26566117,
+            "artist_name": "Cover Nation",
+            "has_subtitles": 0,
+            "track_name": "Treat You Better",
+            "has_lyrics": 0,
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cover-Nation/Treat-You-Better?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635"
+        }
+    },
+    {
+        "track": {
+            "commontrack_id": 74285818,
+            "explicit": 0,
+            "track_name_translation_list": [],
+            "restricted": 0,
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hits-Vari%C3%A9t%C3%A9-Pop/Treat-You-Better/edit?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635",
+            "primary_genres": {
+                "music_genre_list": []
+            },
+            "track_rating": 1,
+            "instrumental": 0,
+            "has_richsync": 0,
+            "track_id": 132642084,
+            "artist_id": 28761833,
+            "updated_time": "2017-08-04T16:26:06Z",
+            "num_favourite": 0,
+            "album_name": "Hits Vari\u00e9t\u00e9 Pop, Vol. 60 (Top radios & clubs)",
+            "album_id": 26566441,
+            "artist_name": "Hits Vari\u00e9t\u00e9 Pop",
+            "has_subtitles": 0,
+            "track_name": "Treat You Better",
+            "has_lyrics": 0,
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hits-Vari%C3%A9t%C3%A9-Pop/Treat-You-Better?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635"
+        }
+    },
+    {
+        "track": {
+            "commontrack_id": 74285917,
+            "explicit": 0,
+            "track_name_translation_list": [],
+            "restricted": 0,
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ultimate-Pop-Hits/Treat-You-Better/edit?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635",
+            "primary_genres": {
+                "music_genre_list": []
+            },
+            "track_rating": 1,
+            "instrumental": 0,
+            "has_richsync": 0,
+            "track_id": 132639108,
+            "artist_id": 28939234,
+            "updated_time": "2017-08-04T16:26:25Z",
+            "num_favourite": 0,
+            "album_name": "Millenial Love Hits",
+            "album_id": 26566118,
+            "artist_name": "Ultimate Pop Hits",
+            "has_subtitles": 0,
+            "track_name": "Treat You Better",
+            "has_lyrics": 0,
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ultimate-Pop-Hits/Treat-You-Better?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635"
+        }
+    },
+    {
+        "track": {
+            "commontrack_id": 69190909,
+            "explicit": 0,
+            "track_name_translation_list": [],
+            "restricted": 0,
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hit-Factory-feat-Darja/Treat-You-Better-Karaoke-Version-Originally-Performed-By-Shawn-Mendes/edit?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635",
+            "primary_genres": {
+                "music_genre_list": []
+            },
+            "track_rating": 1,
+            "instrumental": 0,
+            "has_richsync": 0,
+            "track_id": 124967696,
+            "artist_id": 32906937,
+            "updated_time": "2017-01-12T16:50:08Z",
+            "num_favourite": 0,
+            "album_name": "Instrumental Playback Hits - Karaoke Remix Playlist 2016.2",
+            "album_id": 25421240,
+            "artist_name": "Hit Factory feat. Darja",
+            "has_subtitles": 0,
+            "track_name": "Treat You Better (Karaoke Version Originally Performed By Shawn Mendes)",
+            "has_lyrics": 1,
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hit-Factory-feat-Darja/Treat-You-Better-Karaoke-Version-Originally-Performed-By-Shawn-Mendes?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635"
+        }
+    },
+    {
+        "track": {
+            "commontrack_id": 64403792,
+            "explicit": 0,
+            "track_name_translation_list": [],
+            "restricted": 0,
+            "track_edit_url": "https://www.musixmatch.com/lyrics/ProSource-Karaoke-Band/Treat-You-Better-Originally-Performed-By-Shawn-Mendes-Karaoke/edit?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635",
+            "primary_genres": {
+                "music_genre_list": [
+                    {
+                        "music_genre": {
+                            "music_genre_vanity": "Karaoke",
+                            "music_genre_id": 52,
+                            "music_genre_name_extended": "Karaoke",
+                            "music_genre_name": "Karaoke",
+                            "music_genre_parent_id": 34
+                        }
+                    }
+                ]
+            },
+            "track_rating": 1,
+            "instrumental": 0,
+            "has_richsync": 0,
+            "track_id": 116853131,
+            "artist_id": 24617715,
+            "updated_time": "2016-11-16T10:40:32Z",
+            "num_favourite": 0,
+            "album_name": "Treat You Better (Originally Performed By Shawn Mendes) [Karaoke Version]",
+            "album_id": 24183912,
+            "artist_name": "ProSource Karaoke Band",
+            "has_subtitles": 0,
+            "track_name": "Treat You Better (Originally Performed By Shawn Mendes) [Karaoke]",
+            "has_lyrics": 1,
+            "track_share_url": "https://www.musixmatch.com/lyrics/ProSource-Karaoke-Band/Treat-You-Better-Originally-Performed-By-Shawn-Mendes-Karaoke?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635"
+        }
+    },
+    {
+        "track": {
+            "commontrack_id": 74969161,
+            "explicit": 0,
+            "track_name_translation_list": [],
+            "restricted": 0,
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hit-Factory-feat-Darja/Treat-You-Better-feat-Darja-Instrumental-Workout-Remix-BPM-120/edit?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635",
+            "primary_genres": {
+                "music_genre_list": []
+            },
+            "track_rating": 1,
+            "instrumental": 0,
+            "has_richsync": 0,
+            "track_id": 123925071,
+            "artist_id": 32906937,
+            "updated_time": "2017-08-29T21:43:34Z",
+            "num_favourite": 0,
+            "album_name": "Body Workout - Top 40 Gym & Running Hits 2016 / 2017 - The Fitness Playlist Compilation",
+            "album_id": 25283253,
+            "artist_name": "Hit Factory feat. Darja",
+            "has_subtitles": 0,
+            "track_name": "Treat You Better (feat. Darja) - Instrumental Workout Remix BPM 120",
+            "has_lyrics": 0,
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hit-Factory-feat-Darja/Treat-You-Better-feat-Darja-Instrumental-Workout-Remix-BPM-120?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635"
+        }
+    },
+    {
+        "track": {
+            "commontrack_id": 76268293,
+            "explicit": 0,
+            "track_name_translation_list": [],
+            "restricted": 0,
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Remix-Sport-Workout/Treat-You-Better-Motivation-Treat-Music-Workout/edit?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635",
+            "primary_genres": {
+                "music_genre_list": []
+            },
+            "track_rating": 18,
+            "instrumental": 0,
+            "has_richsync": 0,
+            "track_id": 137611772,
+            "artist_id": 33746854,
+            "updated_time": "2017-09-29T22:30:31Z",
+            "num_favourite": 0,
+            "album_name": "Music for Running & Workout (Les Meilleures Hits Remix\u00e9 De Motivation 2017 - 2018)",
+            "album_id": 27084148,
+            "artist_name": "Remix Sport Workout",
+            "has_subtitles": 0,
+            "track_name": "Treat You Better - Motivation Treat Music Workout",
+            "has_lyrics": 0,
+            "track_share_url": "https://www.musixmatch.com/lyrics/Remix-Sport-Workout/Treat-You-Better-Motivation-Treat-Music-Workout?utm_source=application&utm_campaign=api&utm_medium=fsociety%3A1409618331635"
+        }
+    }
+]
